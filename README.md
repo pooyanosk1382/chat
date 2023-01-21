@@ -6,3 +6,5 @@ In this program we have a client and a server program.
 In server we create a server socket and make that ready to be connected to that.
 
 In client we connect to server and can chat.
+
+With a request we send message to server and server send that to reciever.
